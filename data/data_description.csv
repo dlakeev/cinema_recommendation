@@ -1,0 +1,21 @@
+column_name,description
+type,Тип кинематографа
+title_ru,Название на русском
+title_eng,Название на английском
+description,Текстовое описание
+year_start,Дата выхода
+year_end,Дата окончания
+genres,Жанры
+myshows_rating,Рейтинг на MyShows
+myshows_num,Количество оценок на MyShows
+kp_rating,Рейтинг на Kinopoisk
+kp_num,Количество оценок на Kinopoisk
+imdb_rating,Рейтинг на IMDb
+imdb_num,Количество оценок на IMDb
+country,Страна производитель
+total_duration,Общая продолжительность
+series_duration,Продолжительность эпизода
+seasons,Количество сезонов
+production,Производство
+poster,Постер
+link,Ссылка
